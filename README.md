@@ -1,6 +1,7 @@
 ﻿# TrabalhoBancodeDadosCRUD
 
-# Tema: Um sistema de cadastro de clientes e Produtos.
+## Tema: 
+Um sistema de cadastro de clientes e Produtos.
 
 ## Descrição: O sistema terá como finalidade a realização do cadastro de clientes e Produtos,
 comprados por estes, para ter um controle de vendas de uma determinada loja ao longo de um 
