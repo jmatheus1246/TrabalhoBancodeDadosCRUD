@@ -42,4 +42,7 @@ de save, read, delete e delete2, update e update2, dados).
 
 ## Uso de Gráficos com GoogleCharts
 Os gráficos feitos no trabalho, tiveram o uso do GoogleCharts(API utilizada para transforma dados em gráficos)
-para obter uma melhor visualização dos dados obtidos.
+e a biblioteca AJAX(utilizada para ler os dados) para obter uma melhor visualização dos dados obtidos.
+
+- [GoogleCharts](https://developers.google.com/chart)
+- [AJAX API](http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js)
