@@ -3,7 +3,8 @@
 ## Tema: 
 Um sistema de cadastro de clientes e Produtos.
 
-## Descrição: O sistema terá como finalidade a realização do cadastro de clientes e Produtos,
+## Descrição: 
+O sistema terá como finalidade a realização do cadastro de clientes e Produtos,
 comprados por estes, para ter um controle de vendas de uma determinada loja ao longo de um 
 mês, para isso será criado um banco de dados utilizando a linguagem SQL para armazenar os da
 dos dos clientes e dos produtos. O preenchimento do banco será feito por meio de um formulá
