@@ -13,7 +13,11 @@ rio, feito em HTML, a conexão entre o banco e formulário será realizado por m
 dados, para cria-lo será utilizado as linguagens PHP(Utilizada para criar uma melhor intera
 ção e realizar a conexão entre o banco e o formulário) e SQL(Para Realizar as consultas neces
 sárias).
- 
+
+## Modelo Conceitual e Lógico
+[Conceitual:](mconceitual.png)
+
+ [Lógico:](mlogico.png)
 ## Consultas SQL
 Ao longo do código, foram utilizadas consultas SQL para adquirir os dados
 do banco e adiciona-los ao CRUD (As consultas foram retiradas dos códigos
