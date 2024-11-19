@@ -15,9 +15,9 @@ dados, para cria-lo será utilizado as linguagens PHP(Utilizada para criar uma m
 sárias).
 
 ## Modelo Conceitual e Lógico
-[Conceitual:] <img src = "mconceitual.png">
+[Conceitual:] <img src = "https://github.com/jmatheus1246/TrabalhoBancodeDadosCRUD/blob/main/mconceitual.PNG">
 
- [Lógico:] <img src = "mlogico.png">
+ [Lógico:] <img src = "">
 ## Consultas SQL
 Ao longo do código, foram utilizadas consultas SQL para adquirir os dados
 do banco e adiciona-los ao CRUD (As consultas foram retiradas dos códigos
