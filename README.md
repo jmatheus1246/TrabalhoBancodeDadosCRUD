@@ -15,9 +15,11 @@ dados, para cria-lo será utilizado as linguagens PHP(Utilizada para criar uma m
 sárias).
 
 ## Modelo Conceitual e Lógico
-[Conceitual:] <img src = "https://github.com/jmatheus1246/TrabalhoBancodeDadosCRUD/blob/main/mconceitual.PNG">
+Modelo Conceitual:
+ <img src = "https://github.com/jmatheus1246/TrabalhoBancodeDadosCRUD/blob/main/mconceitual.PNG">
 
- [Lógico:] <img src = "">
+Modelo Lógico
+  <img src = "https://github.com/jmatheus1246/TrabalhoBancodeDadosCRUD/blob/main/mlogico.PNG">
 ## Consultas SQL
 Ao longo do código, foram utilizadas consultas SQL para adquirir os dados
 do banco e adiciona-los ao CRUD (As consultas foram retiradas dos códigos
@@ -51,3 +53,6 @@ e a biblioteca AJAX(utilizada para ler os dados) para obter uma melhor visualiza
 
 - [GoogleCharts](https://developers.google.com/chart)
 - [AJAX API](http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js)
+
+Resultado dos gráficos:
+<img src = "">
